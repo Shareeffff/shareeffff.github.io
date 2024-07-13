@@ -4,8 +4,6 @@ title: 从机器人工程到量化交易：我的职业规划
 date: 2024-07-12
 tags:
   - 职业规划
-  - 谈心
-  - 量化交易
 comments: false
 author: Shareef
 ---
